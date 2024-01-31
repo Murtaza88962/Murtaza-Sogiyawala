@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murtaza88962
-- 👀 I’m interested in WEB Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me : mailto:msogiyawala@gmail.com
 
