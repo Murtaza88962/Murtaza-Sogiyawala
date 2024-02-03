@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Murtaza88962
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,Mysql
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me : mailto:msogiyawala@gmail.com
 
